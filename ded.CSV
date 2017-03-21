@@ -1,7 +1,7 @@
-TRUE,TRUE,FALSE,0
-TRUE,FALSE,TRUE,0
-TRUE,FALSE,FALSE,0
-FALSE,TRUE,TRUE,0
-FALSE,TRUE,FALSE,0
-FALSE,FALSE,TRUE,0
-FALSE,FALSE,FALSE,0
+true,true,false,80
+true,false,true,50
+true,false,false,0
+false,true,true,0
+false,true,false,0
+false,false,true,0
+false,false,false,0
